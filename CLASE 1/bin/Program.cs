@@ -61,7 +61,7 @@
 // EJERCICIO 2  CONVERSOR DE MONEDAS
 // 1. Solicitar al usuario el nombre y cantidad de pesos colombianos
 // 2. Calcular y mostrar el equivalente de esa cantidad en dolares, euros y libras esterlinas
-// 3. Mostrar la conversion con formato 
+// 3. Mostrar la conversion con formato
 
 //Hacer comentarios en el codigo para describir cada parte del codigo
 
@@ -205,3 +205,5 @@
 //         Console.WriteLine($"Estatura: {estatura} m");
 //         Console.WriteLine($"Peso: {peso} kg");
 //         Console.WriteLine($"Su índice de masa corporal (IMC) es: {imc:F2}");
+
+
