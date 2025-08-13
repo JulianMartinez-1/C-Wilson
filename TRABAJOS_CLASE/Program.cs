@@ -445,19 +445,19 @@ foreach (var producto in lista_productos) {
 //             switch (calificacion)
 //             {
 //                 case 1:
-//                     Console.WriteLine("Lamentamos que haya tenido una mala experiencia. 😞");
+//                     Console.WriteLine("Lamentamos que haya tenido una mala experiencia. ");
 //                     break;
 //                 case 2:
-//                     Console.WriteLine("Gracias por su opinión, trabajaremos para mejorar. 🙁");
+//                     Console.WriteLine("Gracias por su opinión, trabajaremos para mejorar. ");
 //                     break;
 //                 case 3:
-//                     Console.WriteLine("Gracias por su calificación. 🙂");
+//                     Console.WriteLine("Gracias por su calificación. ");
 //                     break;
 //                 case 4:
-//                     Console.WriteLine("¡Nos alegra que esté satisfecho! 😀");
+//                     Console.WriteLine("¡Nos alegra que esté satisfecho! ");
 //                     break;
 //                 case 5:
-//                     Console.WriteLine("¡Excelente! Nos encanta saberlo. 😍");
+//                     Console.WriteLine("¡Excelente! Nos encanta saberlo. ");
 //                     break;
 //                 case 0:
 //                     Console.WriteLine("Saliendo del sistema...");
@@ -471,3 +471,20 @@ foreach (var producto in lista_productos) {
 //         } while (calificacion != 0);
 //     }
 // }
+
+
+////  CASOS DE USO
+
+
+//// CASO DE USO INVENTARIO
+
+// El cliente ingresa el nombre del producto y el precio, y el sistema actualiza el stock y muestra el precio actual.
+// El cliente puede ver la lista de productos y sus precios.
+// El cliente puede agregar un producto nuevo o actualizar el stock de un producto existente.
+// El cliente puede salir del sistema cuando lo desee.
+
+
+//// CASO DE USO ENCUESTA DE SATISFACCIÓN
+
+/// El cliente califica su experiencia del 1 al 5, y el sistema responde con un mensaje acorde a la calificación.
+// El cliente puede salir del sistema cuando lo desee.
