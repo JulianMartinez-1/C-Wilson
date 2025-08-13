@@ -54,7 +54,7 @@
 
 
 
-//EJERCICIO 1 CALCULO DE IMC
+//// EJERCICIO 1 CALCULO DE IMC
 // 1. Solicitar al usuario los siguientes datos: NombreCompleto, edad, estatura, peso
 // 2. Calcular el indice de masa corporal usando formula
 
@@ -140,6 +140,8 @@
 
 // }
 
+//// EJERCICIO 2  CONVERSOR DE MONEDAS
+
 // Console.Write("Ingrese su nombre: ");
 //         string nombre = Console.ReadLine() ?? "";
 
@@ -165,6 +167,8 @@
 //         Console.WriteLine($"Dólares (USD): {enUSD.ToString("C2", CultureInfo.CreateSpecificCulture("en-US"))}");
 //         Console.WriteLine($"Euros (EUR): {enEUR.ToString("C2", CultureInfo.CreateSpecificCulture("fr-FR"))}");
 //         Console.WriteLine($"Libras Esterlinas (GBP): {enGBP.ToString("C2", CultureInfo.CreateSpecificCulture("en-GB"))}");
+
+
 
 
 // Console.Write("Ingrese su nombre completo: ");

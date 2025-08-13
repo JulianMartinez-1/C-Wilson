@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Julian\\OneDrive\\Desktop\\TRIMESTRE 3\\C# WILSON\\CLASE 2\\C# WILSON.csproj",
+      "projectUniqueName": "C:\\Users\\Julian\\OneDrive\\Desktop\\TRIMESTRE 3\\C# WILSON\\TRABAJOS_CLASE\\C# WILSON.csproj",
       "projectName": "C# WILSON",
-      "projectPath": "C:\\Users\\Julian\\OneDrive\\Desktop\\TRIMESTRE 3\\C# WILSON\\CLASE 2\\C# WILSON.csproj",
+      "projectPath": "C:\\Users\\Julian\\OneDrive\\Desktop\\TRIMESTRE 3\\C# WILSON\\TRABAJOS_CLASE\\C# WILSON.csproj",
       "packagesPath": "C:\\Users\\Julian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Julian\\OneDrive\\Desktop\\TRIMESTRE 3\\C# WILSON\\CLASE 2\\obj\\",
+      "outputPath": "C:\\Users\\Julian\\OneDrive\\Desktop\\TRIMESTRE 3\\C# WILSON\\TRABAJOS_CLASE\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Julian\\AppData\\Roaming\\NuGet\\NuGet.Config"

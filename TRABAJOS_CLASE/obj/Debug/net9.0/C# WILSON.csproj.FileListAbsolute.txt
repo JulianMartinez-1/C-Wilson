@@ -1,0 +1,30 @@
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\CLASE 2\obj\Debug\net9.0\C# WILSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\CLASE 2\obj\Debug\net9.0\C# WILSON.AssemblyInfoInputs.cache
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\CLASE 2\obj\Debug\net9.0\C# WILSON.AssemblyInfo.cs
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\CLASE 2\obj\Debug\net9.0\C# WILSON.csproj.CoreCompileInputs.cache
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\CLASE 2\obj\Debug\net9.0\C# WILSON.sourcelink.json
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\CLASE 2\bin\Debug\net9.0\C# WILSON.exe
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\CLASE 2\bin\Debug\net9.0\C# WILSON.deps.json
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\CLASE 2\bin\Debug\net9.0\C# WILSON.runtimeconfig.json
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\CLASE 2\bin\Debug\net9.0\C# WILSON.dll
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\CLASE 2\bin\Debug\net9.0\C# WILSON.pdb
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\CLASE 2\obj\Debug\net9.0\C# WILSON.dll
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\CLASE 2\obj\Debug\net9.0\refint\C# WILSON.dll
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\CLASE 2\obj\Debug\net9.0\C# WILSON.pdb
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\CLASE 2\obj\Debug\net9.0\C# WILSON.genruntimeconfig.cache
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\CLASE 2\obj\Debug\net9.0\ref\C# WILSON.dll
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\TRABAJOS_CLASE\bin\Debug\net9.0\C# WILSON.exe
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\TRABAJOS_CLASE\bin\Debug\net9.0\C# WILSON.deps.json
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\TRABAJOS_CLASE\bin\Debug\net9.0\C# WILSON.runtimeconfig.json
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\TRABAJOS_CLASE\bin\Debug\net9.0\C# WILSON.dll
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\TRABAJOS_CLASE\bin\Debug\net9.0\C# WILSON.pdb
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\TRABAJOS_CLASE\obj\Debug\net9.0\C# WILSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\TRABAJOS_CLASE\obj\Debug\net9.0\C# WILSON.AssemblyInfoInputs.cache
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\TRABAJOS_CLASE\obj\Debug\net9.0\C# WILSON.AssemblyInfo.cs
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\TRABAJOS_CLASE\obj\Debug\net9.0\C# WILSON.csproj.CoreCompileInputs.cache
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\TRABAJOS_CLASE\obj\Debug\net9.0\C# WILSON.sourcelink.json
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\TRABAJOS_CLASE\obj\Debug\net9.0\C# WILSON.dll
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\TRABAJOS_CLASE\obj\Debug\net9.0\refint\C# WILSON.dll
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\TRABAJOS_CLASE\obj\Debug\net9.0\C# WILSON.pdb
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\TRABAJOS_CLASE\obj\Debug\net9.0\C# WILSON.genruntimeconfig.cache
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\TRABAJOS_CLASE\obj\Debug\net9.0\ref\C# WILSON.dll
