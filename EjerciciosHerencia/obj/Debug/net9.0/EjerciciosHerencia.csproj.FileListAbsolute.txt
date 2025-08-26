@@ -1,0 +1,15 @@
+c:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\EjerciciosHerencia\obj\Debug\net9.0\EjerciciosHerencia.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\EjerciciosHerencia\obj\Debug\net9.0\EjerciciosHerencia.AssemblyInfoInputs.cache
+c:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\EjerciciosHerencia\obj\Debug\net9.0\EjerciciosHerencia.AssemblyInfo.cs
+c:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\EjerciciosHerencia\obj\Debug\net9.0\EjerciciosHerencia.csproj.CoreCompileInputs.cache
+c:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\EjerciciosHerencia\obj\Debug\net9.0\EjerciciosHerencia.sourcelink.json
+c:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\EjerciciosHerencia\bin\Debug\net9.0\EjerciciosHerencia.exe
+c:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\EjerciciosHerencia\bin\Debug\net9.0\EjerciciosHerencia.deps.json
+c:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\EjerciciosHerencia\bin\Debug\net9.0\EjerciciosHerencia.runtimeconfig.json
+c:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\EjerciciosHerencia\bin\Debug\net9.0\EjerciciosHerencia.dll
+c:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\EjerciciosHerencia\bin\Debug\net9.0\EjerciciosHerencia.pdb
+c:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\EjerciciosHerencia\obj\Debug\net9.0\EjerciciosHerencia.dll
+c:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\EjerciciosHerencia\obj\Debug\net9.0\refint\EjerciciosHerencia.dll
+c:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\EjerciciosHerencia\obj\Debug\net9.0\EjerciciosHerencia.pdb
+c:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\EjerciciosHerencia\obj\Debug\net9.0\EjerciciosHerencia.genruntimeconfig.cache
+c:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\EjerciciosHerencia\obj\Debug\net9.0\ref\EjerciciosHerencia.dll
