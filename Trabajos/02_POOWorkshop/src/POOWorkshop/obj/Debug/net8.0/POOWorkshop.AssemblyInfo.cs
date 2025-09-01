@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("C# WILSON")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("POOWorkshop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a21ac06df61daeccd54a19a2cb40cd482245b32d")]
-[assembly: System.Reflection.AssemblyProductAttribute("C# WILSON")]
-[assembly: System.Reflection.AssemblyTitleAttribute("C# WILSON")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("POOWorkshop")]
+[assembly: System.Reflection.AssemblyTitleAttribute("POOWorkshop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
