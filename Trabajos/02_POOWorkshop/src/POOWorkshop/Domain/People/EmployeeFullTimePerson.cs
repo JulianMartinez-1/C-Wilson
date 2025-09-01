@@ -1,14 +1,12 @@
-namespace POOWorkshop.Domain.People;
-
-public class EmployeeFullTimePerson : Person
+namespace POOWorkshop.Domain.People
 {
-    public decimal Salary { get; }
-
-    public EmployeeFullTimePerson(string name, decimal salary) : base(name)
+    public class EmployeeFullTimePerson : Person
     {
-        if (salary <= 0) throw new ArgumentOutOfRangeException(nameof(salary));
-        Salary = salary;
-    }
+        public decimal Salary { get; set; }
 
-    public override string Describe() => $"Empleado FT: {FullName}, salario: {Salary:C0}";
+        public EmployeeFullTimePerson(string fullName, decimal salary) : base(fullName)
+        {
+            Salary = salary;
+        }
+    }
 }

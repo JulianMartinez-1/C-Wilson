@@ -1,19 +1,21 @@
-namespace POOWorkshop.Domain.Payroll;
-
-public class Hourly : EmployeeBase
+namespace POOWorkshop.Domain.Payroll
 {
-    public decimal Rate { get; }
-    public int Hours { get; }
-
-    public Hourly(string fullName, decimal rate, int hours) : base(fullName)
+    public class Hourly : EmployeeBase
     {
-        if (rate <= 0) throw new ArgumentOutOfRangeException(nameof(rate));
-        if (hours < 0) throw new ArgumentOutOfRangeException(nameof(hours));
-        Rate = rate;
-        Hours = hours;
+        public int HoursWorked { get; set; }
+        public decimal HourlyRate { get; set; }
+
+        // 🔹 Constructor que recibe 3 parámetros
+        public Hourly(string name, int hoursWorked, decimal hourlyRate)
+            : base(name, hoursWorked * hourlyRate) // calcula salario base
+        {
+            HoursWorked = hoursWorked;
+            HourlyRate = hourlyRate;
+        }
+
+        public override string BuildReport()
+        {
+            return $"Empleado por horas: {Name}, Horas: {HoursWorked}, Tarifa: {HourlyRate:C}, Salario: {Salary:C}";
+        }
     }
-
-    public override decimal CalculatePayment() => Rate * Hours;
-
-    public override string BuildReport() => $"Hourly -> {FullName}: {Rate:C0} x {Hours} = {CalculatePayment():C0}";
 }

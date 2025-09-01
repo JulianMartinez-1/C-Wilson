@@ -1,20 +1,17 @@
-using POOWorkshop.Domain.Interfaces;
-
-namespace POOWorkshop.Domain.Payroll;
-
-public abstract class EmployeeBase : IPayable, IReportable
+namespace POOWorkshop.Domain.Payroll
 {
-    public string FullName { get; }
-
-    protected EmployeeBase(string fullName)
+    public abstract class EmployeeBase
     {
-        if (string.IsNullOrWhiteSpace(fullName))
-            throw new ArgumentException("FullName required", nameof(fullName));
-        FullName = fullName.Trim();
+        public string Name { get; set; }
+        public decimal Salary { get; set; }
+
+        public EmployeeBase(string name, decimal salary)
+        {
+            Name = name;
+            Salary = salary;
+        }
+
+        // 👇 Método abstracto que todas las clases hijas deben implementar
+        public abstract string BuildReport();
     }
-
-    public virtual string Describe() => $"Empleado: {FullName}";
-
-    public abstract decimal CalculatePayment();
-    public abstract string BuildReport();
 }

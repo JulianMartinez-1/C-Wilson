@@ -1,16 +1,12 @@
-namespace POOWorkshop.Domain.Payroll;
-
-public class FullTime : EmployeeBase
+namespace POOWorkshop.Domain.Payroll
 {
-    public decimal Monthly { get; }
-
-    public FullTime(string fullName, decimal monthly) : base(fullName)
+    public class FullTime : EmployeeBase
     {
-        if (monthly <= 0) throw new ArgumentOutOfRangeException(nameof(monthly));
-        Monthly = monthly;
+        public FullTime(string name, decimal salary) : base(name, salary) { }
+
+        public override string BuildReport()
+        {
+            return $"Empleado FullTime: {Name}, Salario mensual: {Salary:C}";
+        }
     }
-
-    public override decimal CalculatePayment() => Monthly;
-
-    public override string BuildReport() => $"FullTime -> {FullName}: {Monthly:C0}";
 }

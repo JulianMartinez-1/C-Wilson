@@ -1,15 +1,12 @@
-namespace POOWorkshop.Domain.People;
-
-public class Person
+namespace POOWorkshop.Domain.People
 {
-    public string FullName { get; }
-
-    public Person(string fullName)
+    public abstract class Person
     {
-        FullName = string.IsNullOrWhiteSpace(fullName)
-            ? throw new ArgumentException("FullName required", nameof(fullName))
-            : fullName.Trim();
-    }
+        public string FullName { get; set; }
 
-    public virtual string Describe() => $"Persona: {FullName}";
+        public Person(string fullName)
+        {
+            FullName = fullName;
+        }
+    }
 }
