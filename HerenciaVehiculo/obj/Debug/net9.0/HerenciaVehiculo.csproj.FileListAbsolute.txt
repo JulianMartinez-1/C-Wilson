@@ -1,0 +1,5 @@
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\HerenciaVehiculo\obj\Debug\net9.0\HerenciaVehiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\HerenciaVehiculo\obj\Debug\net9.0\HerenciaVehiculo.AssemblyInfoInputs.cache
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\HerenciaVehiculo\obj\Debug\net9.0\HerenciaVehiculo.AssemblyInfo.cs
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\HerenciaVehiculo\obj\Debug\net9.0\HerenciaVehiculo.csproj.CoreCompileInputs.cache
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\HerenciaVehiculo\obj\Debug\net9.0\HerenciaVehiculo.sourcelink.json
