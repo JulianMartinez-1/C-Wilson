@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wcastro\\source\\repos\\ConcesionarioWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\wcastro\\source\\repos\\concesionarioweb\\views\\tipovehiculos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:views\\tipovehiculos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\wcastro\\source\\repos\\concesionarioweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\wcastro\\source\\repos\\concesionarioweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\wcastro\\source\\repos\\concesionarioweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\wcastro\\source\\repos\\concesionarioweb\\models\\tipovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:models\\tipovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\wcastro\\source\\repos\\concesionarioweb\\data\\concesionariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:data\\concesionariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\wcastro\\source\\repos\\concesionarioweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\wcastro\\source\\repos\\concesionarioweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\wcastro\\source\\repos\\concesionarioweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\wcastro\\source\\repos\\ConcesionarioWeb\\Views\\TipoVehiculos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\TipoVehiculos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\wcastro\\source\\repos\\ConcesionarioWeb\\Views\\TipoVehiculos\\Create.cshtml",
+              "RelativeToolTip": "Views\\TipoVehiculos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T15:12:22.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\wcastro\\source\\repos\\ConcesionarioWeb\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\wcastro\\source\\repos\\ConcesionarioWeb\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T15:10:52.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TipoVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\wcastro\\source\\repos\\ConcesionarioWeb\\Models\\TipoVehiculo.cs",
+              "RelativeDocumentMoniker": "Models\\TipoVehiculo.cs",
+              "ToolTip": "C:\\Users\\wcastro\\source\\repos\\ConcesionarioWeb\\Models\\TipoVehiculo.cs",
+              "RelativeToolTip": "Models\\TipoVehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:04:13.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConcesionarioContext.cs",
+              "DocumentMoniker": "C:\\Users\\wcastro\\source\\repos\\ConcesionarioWeb\\Data\\ConcesionarioContext.cs",
+              "RelativeDocumentMoniker": "Data\\ConcesionarioContext.cs",
+              "ToolTip": "C:\\Users\\wcastro\\source\\repos\\ConcesionarioWeb\\Data\\ConcesionarioContext.cs",
+              "RelativeToolTip": "Data\\ConcesionarioContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:02:06.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\wcastro\\source\\repos\\ConcesionarioWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\wcastro\\source\\repos\\ConcesionarioWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T14:09:33.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\wcastro\\source\\repos\\ConcesionarioWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\wcastro\\source\\repos\\ConcesionarioWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:07:28.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wcastro\\source\\repos\\ConcesionarioWeb\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\wcastro\\source\\repos\\ConcesionarioWeb\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T13:33:37.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\wcastro\\source\\repos\\ConcesionarioWeb\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\wcastro\\source\\repos\\ConcesionarioWeb\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T13:49:09.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wcastro\\source\\repos\\ConcesionarioWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\wcastro\\source\\repos\\ConcesionarioWeb\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T13:31:36.058Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

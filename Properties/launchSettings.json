@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "ConcesionarioWeb": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:7242;http://localhost:5242"
+    }
+  }
+}
